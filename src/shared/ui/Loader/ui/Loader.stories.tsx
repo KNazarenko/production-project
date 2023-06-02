@@ -17,6 +17,9 @@ type Story = StoryObj<typeof Loader>;
 export const Normal: Story = {
     args: {
     },
+    decorators: [
+        ThemeDecorator(Theme.LIGHT),
+    ],
 };
 
 export const Dark: Story = {
