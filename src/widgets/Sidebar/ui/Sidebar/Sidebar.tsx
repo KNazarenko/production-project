@@ -14,7 +14,7 @@ const Sidebar: FC<SidebarProps> = (props) => {
     const { className } = props;
 
     const [collapsed, setCollapsed] = useState(false);
-    const { t, i18n } = useTranslation();
+    const { t } = useTranslation();
 
     const onToggle = () => {
         setCollapsed((prev) => !prev);
