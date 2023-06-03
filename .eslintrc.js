@@ -33,12 +33,12 @@ module.exports = {
         }],
         'import/no-unresolved': 'off',
         'import/extensions': 'off',
+        'import/no-extraneous-dependencies': 'off',
         'no-unused-vars': 'warn',
         'react/require-default-props': 'off',
         'react/function-component-definition': 'off',
         'react/jsx-props-no-spreading': [1],
         'no-shadow': [0],
-        'import/no-extraneous-dependencies': [1],
         'import/prefer-default-export': 'off',
         'no-underscore-dangle': 'off',
         'i18next/no-literal-string': ['error', {
