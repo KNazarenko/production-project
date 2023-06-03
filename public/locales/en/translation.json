@@ -1,7 +1,10 @@
 {
+  "Short": "En",
   "Lang": "English",
   "Toggle": "Toggle",
   "Page is not found": "Page is not found",
   "Reload page": "Reload page",
-  "Throw Error": "Throw Error"
+  "Throw Error": "Throw Error",
+  "Main": "Main",
+  "About": "About"
 }
